@@ -1,0 +1,6 @@
+python-telegram-bot==13.7
+requests==2.25.1
+fpdf==1.7.2
+docx2pdf==0.1.7
+pandas==1.2.4
+openpyxl==3.0.7
